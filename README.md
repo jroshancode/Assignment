@@ -178,3 +178,25 @@ print(num).
 
 - Remove all punctuations from a string.
 
+<img width="512" height="287" alt="image" src="https://github.com/user-attachments/assets/24312393-06aa-4679-bc30-59e441b0e705" />
+
+
+- What is Python?
+- What are the key features of Python?What is the difference between == and is?
+- What is the difference between deep and shallow copy?
+- What is the difference between a list and a tuple?
+- What is a set?
+- Create a Set from a List
+- Given a list with duplicate elements, convert it into a set and display the result.
+- Add an Element to a Set
+- Write a program to add 'Python' to a set: {'Java', 'C++', 'Go'}.
+- Check for Membership
+- Check if 'apple' is present in the set {'banana', 'cherry', 'apple'}.
+- Remove an Element from a Set:-
+- Remove 'Go' from the set {'Java', 'C++', 'Go', 'Rust'} using both remove() and discard().
+- Clear a Set:-
+- Write a program that clears all elements from a set and prints the result.
+
+<img width="512" height="287" alt="image" src="https://github.com/user-attachments/assets/24312393-06aa-4679-bc30-59e441b0e705" />
+
+
