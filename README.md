@@ -200,3 +200,275 @@ print(num).
 <img width="512" height="287" alt="image" src="https://github.com/user-attachments/assets/24312393-06aa-4679-bc30-59e441b0e705" />
 
 
+# Q1. Which of the following removes all items from a set?
+
+a) delete()
+b) discardAll()
+c) clear()
+d) removeAll()
+
+Q2. What is the result of {1, 2} | {2, 3}?**
+
+a) {1, 2, 3}
+b) {2}
+c) {1, 3}
+d) Error
+
+# Q3. What does A & B return in sets?
+
+a) Union
+b) Difference
+c) Intersection
+d) Symmetric Difference
+
+
+# Q4. What will happen if you remove a non-existent element using remove()?
+
+a) Nothing
+b) Error
+c) False
+d) None
+
+
+# Q5. What is the correct method to add multiple elements to a set?
+
+a) append()
+b) extend()
+c) addAll()
+d) update()
+
+
+# Q6. Which one checks if a set is a subset of another?
+
+a) issuperset()
+b) ischild()
+c) issubset()
+d) issub()
+
+
+# Q7. Which of the following is unordered and does not allow duplicates?
+
+a) list
+b) tuple
+c) dict
+d) set
+
+# Q8. set("hello") returns?
+
+a) \['h', 'e', 'l', 'l', 'o']
+b) {'h', 'e', 'l', 'o'}
+c) ('h', 'e', 'l', 'l', 'o')
+d) error
+
+Find HCF and LCM of tow number without using Math method ?
+1. Create a string and print it.
+
+2. Find the length of a string.
+
+3. Access the first and fourth character  from a string.
+Access the second and third last character from a String.
+
+4. Slice a string from index 2 to 5.
+
+5. Count the number of vowels in a given string.
+
+6. Find the number of times a character appears in a string.
+
+7. Find the reverse of a String
+
+
+- Find the largest and smallest elements in a list without the max or min function.
+
+- Count how many times a particular element appears in a list.
+
+- Take a list and remove duplicates from it.
+
+- Write a program to reverse a list without reverse and slicing.
+
+- Unique Characters in a String
+
+- Given a string, return the count of unique characters using sets.
+
+- Common Letters Between Two Strings
+- Given "apple" and "grape", find common letters using sets.
+
+- Find Non-Repeating Elements
+- Given a list [1, 2, 2, 3, 4, 4, 5], find all elements that appear only once using sets.
+
+# Intersection of Multiple Sets
+- Given a list of sets, return their intersection: [{1,2,3}, {2,3,4}, {2,5,3}].
+
+- Get a sublist containing only even numbers from a list of integers.
+
+- Find the second-largest element in a list.
+
+- Find the N largest elements from a list without using sort.
+
+- Swap the first and last element of a list.
+
+- Rotate a list to the right by 2 steps.
+
+- Count the frequency of each value in a dictionary (e.g., if multiple keys map to the same value).
+
+- Sum Values
+- Write a function that takes a dictionary of items and their prices, and returns the total cost.
+
+-  Add or Update Key
+- Write a script that adds a key-value pair to a dictionary if the key doesn’t exist, or updates it if it does.
+
+- Remove a Key
+- Write a function that removes a given key from a dictionary safely (avoid errors if the key is missing).
+
+- Given two dictionaries, find keys that are only in the first, only in the second, and in both.
+
+#🔹Function Practice
+- Write a function to find the maximum of three numbers.
+- Write a function that checks whether a number is even or odd.
+- Write a function that returns the factorial of a number.
+- Write a function to calculate the sum of all elements in a list.
+- Write a function that counts the number of vowels in a string.
+
+# * Function Practice questions:- 
+- Write a function that takes a string and returns it reversed.
+- Write a function that finds the greatest common divisor (GCD) of two numbers.
+- Write a function that checks whether a string is a palindrome.
+- Write a function to generate the Fibonacci sequence up to n terms.
+- Write a function that removes duplicates from a list.
+
+1. Convert List of Integers to Strings using a Lambda function.
+2. Filter Words Longer Than 5 Letters, Use filter() to get words with length > 5.
+3. Filter Even Numbers from list 1 to 10 elements using normal function & lambda function.
+4. Find the Maximum in the List [12, 45, 7, 89, 34] using a normal function & reduce
+5. Write a program to reverse a list without the reversed method for normal function and lambda function
+
+📝 Exception Handling Practice Questions
+
+Division Error
+
+Ek program banao jo user se 2 number input le aur unka division kare.
+
+Agar denominator 0 ho toh exception handle karke “Division by zero not allowed” print karo.
+
+List Index Error
+
+Ek list [10,20,30] banao.
+
+User se ek index input lo aur us index ka element print karo.
+
+Agar user galat index de toh error handle karo aur “Invalid index” message dikhayo.
+
+
+Value Error
+
+User se ek number input lo aur uska square print karo.
+
+Agar user number ke jagah string input kare toh exception handle karke “Enter a valid number” dikhayo.
+
+
+Multiple Exceptions
+
+Ek program likho jo user se 2 number input le aur division kare.
+
+
+1. Write a function that takes a string and returns it in reverse order.
+2. Write a function that finds the greatest common divisor (GCD) of two numbers.
+3. Write a function that checks whether a string is a palindrome.
+4. Write a function to generate the Fibonacci sequence up to n terms.
+5. Write a function that removes duplicates from a list.
+You, 14 Sept, 09:33
+6.  Write a lambda function to find the square of a number.
+7. Write a program using map() with a lambda to double each element from a list.
+8. Write a program to filter words longer than 5 letters using filter()  to get words with length > 5.
+9. Find the largest number in a list using reduce.
+You, 14 Sept, 09:41
+10. Count how many odd numbers exist in a list using a filter function.
+11. Write a program to create a file hello.txt, write "This is my first file handling class", then read it.
+12. Try to read a non-existing file missing.txt, and handle the error.
+13. Take two numbers from the user and divide them. Handle divide-by-zero error.
+
+.Create a class Car with attributes brand and model. Create an object and print details.
+2. Make a BankAccount class with balance. Hide balance and allow deposit/withdraw.
+3. Create a Person class and extend it into Employee
+
+
+Assignment:-
+
+1. Create a Student class with name, roll number, and marks. Add a method to calculate grade.
+2. Create a Library class with methods to add, remove, and display books.
+3. Implement a Calculator class with methods for add, subtract, multiply, and divide.
+4. Implement multiple inheritance: Father and Mother classes, and Child inherits from both.
+5. Create a Shape base class and subclasses Rectangle and Triangle with area methods.
+
+
+<img width="512" height="203" alt="image" src="https://github.com/user-attachments/assets/de5bfd05-e07a-4cb1-bbd6-081b6c62e98e" />
+
+
+<img width="512" height="156" alt="image" src="https://github.com/user-attachments/assets/de46f409-b87a-4e07-99da-6bbe392cfce9" />
+
+<img width="512" height="138" alt="image" src="https://github.com/user-attachments/assets/434ea332-ae33-4342-80ea-c98f967f7215" />
+
+<img width="512" height="160" alt="image" src="https://github.com/user-attachments/assets/49d21006-592e-4624-beee-256f5b332a88" />
+
+
+
+1. Library Management System 
+- Features:- 
+- Teacher, Students, and Employees class with a handle basis information of teachers , students and Employees in List and Dictionary .
+
+2. Banking System Simulation
+- Create accounts, check balance, deposit, withdraw.
+- Store data in a file or List and Dictionary (but try file handling first).
+- 
+3. Create a class with any name and in this class handle all of the list, tuple, string, set, and dictionary methods. whenever a user enters input, this kind of operation automatically.
+
+<img width="512" height="160" alt="image" src="https://github.com/user-attachments/assets/49d21006-592e-4624-beee-256f5b332a88" />
+
+<img width="512" height="138" alt="image" src="https://github.com/user-attachments/assets/434ea332-ae33-4342-80ea-c98f967f7215" />
+
+<img width="512" height="156" alt="image" src="https://github.com/user-attachments/assets/de46f409-b87a-4e07-99da-6bbe392cfce9" />
+
+<img width="512" height="203" alt="image" src="https://github.com/user-attachments/assets/de5bfd05-e07a-4cb1-bbd6-081b6c62e98e" />
+
+
+
+Handle karo:
+
+
+ValueError (agar number ke jagah text likha ho)
+
+ZeroDivisionError (agar denominator 0 ho)
+
+General Exception (koi aur error).
+
+
+1 Excel Interface
+Ribbon, workbook, worksheet, cells, columns, rows
+2 Basic Navigation
+
+Selecting, copying, pasting, dragging, autofill
+3 Data Entry
+Entering text, numbers, dates, basic formatting
+4 Cell Formatting
+
+Font, alignment, borders, number/date formats
+5 Basic Formulas
+=SUM(), =AVERAGE(), =MIN(), =MAX(), =COUNT()
+
+6 Simple Cell References
+Relative (A1) vs Absolute ($A$1) references
+7 Saving & Printing
+
+Save as PDF, print settings, page layout
+8 Basic Sorting & Filtering
+
+Sort ascending/descending, filter dropdowns   
+9 Formulas 
+If, ifs , count if, count ifs , sum if , sumifs , averageif , averageifs 
+
+Data format, Data Validation, 
+Text function, date / time function, Automation, Pivot table, sclicer, Dashboard buildings
+
+LOOP up Formula
+
+
+
